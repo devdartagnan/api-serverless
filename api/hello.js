@@ -5,7 +5,7 @@ module.exports = (req, res) => {
     )
   }
   else {
-
+    console.log('xiusa')
   }
 }
 const data = [
